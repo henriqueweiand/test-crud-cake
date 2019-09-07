@@ -1,0 +1,103 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-08-28 18:02+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ItemsController.php:52
+msgid "Salvo com suesso"
+msgstr ""
+
+#: Controller/ItemsController.php:58
+msgid "Erro ao salvar"
+msgstr ""
+
+#: Controller/ItemsController.php:74
+msgid "Detelado com sucesso"
+msgstr ""
+
+#: Controller/ItemsController.php:77
+msgid "Erro ao deletar"
+msgstr ""
+
+#: Template/Items/index.ctp:4
+msgid "Id"
+msgstr ""
+
+#: Template/Items/index.ctp:5
+msgid "Name"
+msgstr ""
+
+#: Template/Items/index.ctp:6
+msgid "Unidade de medida"
+msgstr ""
+
+#: Template/Items/index.ctp:7
+msgid "Quantidade"
+msgstr ""
+
+#: Template/Items/index.ctp:8
+msgid "Preço"
+msgstr ""
+
+#: Template/Items/index.ctp:9
+msgid "Produto perecivel"
+msgstr ""
+
+#: Template/Items/index.ctp:10
+msgid "Data de vencimento"
+msgstr ""
+
+#: Template/Items/index.ctp:11
+msgid "Data de fabricação"
+msgstr ""
+
+#: Template/Items/index.ctp:30
+msgid "Editar"
+msgstr ""
+
+#: Template/Items/index.ctp:32
+msgid "Deletar"
+msgstr ""
+
+#: Template/Items/index.ctp:39
+msgid "Você realmente quer deletar "
+msgstr ""
+
+#: Template/Items/index.ctp:50
+msgid "Novo item"
+msgstr ""
+
+#: Template/Items/index.ctp:55
+#: Template/Layout/error.ctp:43
+msgid "Voltar"
+msgstr ""
+
+#: Template/Items/index.ctp:57
+msgid "Avançar"
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Erro"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
