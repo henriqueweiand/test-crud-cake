@@ -33,3 +33,5 @@ O ambiente pode ser acessado no http://localhost:8080
 ### Importante
 
 Sempre fique atento que não exista outro processo rodando nas portas 80, 9000 e 3306 pois serão as portas utilizadas ao executar o docker
+
+Algumas vezee utilizando o primeiro método de rodar, podem acontecer problemas no tempo de execução do mysql, pois quando a instancia sobe ele demora alguns segundos para subir o banco nesse meio tempo se a migration for rodar dara problema. Solução: Rodar a migration posterior com o comando do passo dois.
